@@ -75,19 +75,20 @@ A Laravel web application to manage income, expenses, and budgets.
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Dashboard
-![Dashboard](four.png)
+![Dashboard](screenshots/four.png)
 
 ### Transactions
-![Transactions](six.png)
+![Transactions](screenshots/six.png)
 
 ### Overview Charts
-![Overview](/home/enas-melad/NARMERRRR/FINANCE_PROO/finance-app/screenshots/five.png)
-![img](one,png)
-
-![img](two,png)
-![img](three,png)
-![img](seven,png)
+![Overview](screenshots/five.png)
+![Img 1](screenshots/one.png)
+![Img 2](screenshots/two.png)
+![Img 3](screenshots/three.png)
+![Img 4](screenshots/seven.png)
 
 ---
 
