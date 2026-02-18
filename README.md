@@ -57,3 +57,38 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# 💰 Finance Tracker
+
+A Laravel web application to manage income, expenses, and budgets.
+
+---
+
+## 🚀 Features
+
+- Add Income
+- Add Expense
+- Budget Limit Warning Popup
+- Transactions History
+- Charts Overview
+
+---
+
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](four.png)
+
+### Transactions
+![Transactions](six.png)
+
+### Overview Charts
+![Overview](five.png)
+![img](one,png)
+
+![img](two,png)
+![img](three,png)
+![img](seven,png)
+
+---
+
+
